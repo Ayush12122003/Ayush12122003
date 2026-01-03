@@ -1,5 +1,5 @@
 # 💫 About Me:
-  I’m interested in java devlopment<br> I’m currently learning advance data structure and algorithm<br> I’m looking to collaborate on java devlopment projects<br> you can reach me on my linkedin as AYUAH AMAN (www.linkedin.com/in/ayush-aman-4a3378273)
+ # I’m interested in java devlopment<br> I’m currently learning advance data structure and algorithm<br> I’m looking to collaborate on java devlopment projects<br> you can reach me on my linkedin as AYUAH AMAN (www.linkedin.com/in/ayush-aman-4a3378273)
 
 
 ## 🌐 Socials:
