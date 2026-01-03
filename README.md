@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in java devlopment<br>I’m currently learning advance data structure and algorithm<br>I’m looking to collaborate on java devlopment projects<br>you can reach me on my linkedin as AYUAH AMAN (www.linkedin.com/in/ayush-aman-4a3378273)<br>Fun Fact : I am a java developer but have a electronics background.
+🙎‍♂️I’m interested in java devlopment<br>✨I’m currently learning advance data structure and algorithm<br>🛩️I’m looking to collaborate on java devlopment projects<br>you can reach me on my linkedin as AYUAH AMAN (www.linkedin.com/in/ayush-aman-4a3378273)<br>👉👈Fun Fact : I am a java developer but have a electronics background.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ I’m interested in java devlopment<br>I’m currently learning advance data str
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayush12122003&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
