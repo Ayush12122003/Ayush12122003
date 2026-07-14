@@ -1,0 +1,23 @@
+<svg width="100%" viewBox="0 0 680 170" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Ayush Aman, Java Developer</title>
+<desc>A navy banner with the text Java developer, Spring Boot, REST APIs, secure by design, and a lock-and-brackets icon.</desc>
+<rect x="0" y="0" width="680" height="170" fill="#0B1F33"/>
+<g opacity="0.5" stroke="#1C3A57" stroke-width="0.5">
+<line x1="420" y1="0" x2="680" y2="60"/>
+<line x1="460" y1="0" x2="680" y2="95"/>
+<line x1="500" y1="0" x2="680" y2="130"/>
+<line x1="540" y1="0" x2="680" y2="165"/>
+<line x1="580" y1="0" x2="680" y2="170"/>
+</g>
+<g transform="translate(560,60)">
+<rect x="-28" y="6" width="56" height="40" rx="6" fill="none" stroke="#5DCAA5" stroke-width="2.5"/>
+<path d="M-16 6 L-16 -8 A16 16 0 0 1 16 -8 L16 6" fill="none" stroke="#5DCAA5" stroke-width="2.5"/>
+<circle cx="0" cy="24" r="4" fill="#5DCAA5"/>
+<line x1="0" y1="28" x2="0" y2="36" stroke="#5DCAA5" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<text x="60" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#F4F7FA">AYUSH AMAN</text>
+<text x="60" y="98" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#8FD9C0">Java developer</text>
+<text x="60" y="122" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#B9C6D4">Spring Boot &#183; REST APIs &#183; JWT security &#183; MySQL</text>
+<line x1="60" y1="134" x2="330" y2="134" stroke="#2A4A66" stroke-width="0.5"/>
+<text x="60" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#7A8B9C">Building secure, scalable backend systems</text>
+</svg>
